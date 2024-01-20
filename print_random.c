@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "rndm.h"
 //Christopher McGarrity github link: https://github.com/CBerg333/3207-Lab-Introduction_S24
-char randchar(); 
 
 int main()
 {
